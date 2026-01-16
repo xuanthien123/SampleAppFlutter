@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "924349119519",
+    "project_id": "medicalfacility-de9d5",
+    "storage_bucket": "medicalfacility-de9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924349119519:android:f8256d864959f94705e92a",
+        "android_client_info": {
+          "package_name": "com.nongnghiepso.medicalfacility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924349119519-d079o7cnad2019fkv9rhajf0llc94u4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nongnghiepso.medicalfacility",
+            "certificate_hash": "5f2e880f5ad219ffc7647952eff5e7e35c962990"
+          }
+        },
+        {
+          "client_id": "924349119519-seug70tetroqjhqmofcef9iucmj68cpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Qb7X-Yw4TyR6F4s2L_d9uZ3_BGhJxjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924349119519-seug70tetroqjhqmofcef9iucmj68cpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924349119519-6nu1lsai4ohle6spubqpfj855h6ou0vv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nongnghiepso.medicalfacility"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
